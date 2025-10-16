@@ -1,0 +1,12 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+namespace CI
+{
+    public static class #SCRIPTNAME#
+    {
+
+    }
+}
+#ROOTNAMESPACEEND#
+    #ROOTNAMESPACEBEGIN#

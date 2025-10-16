@@ -1,0 +1,10 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+[CreateAssetMenu]
+public class #SCRIPTNAME# : ScriptableObject
+{
+
+}
+
+#ROOTNAMESPACEEND#
